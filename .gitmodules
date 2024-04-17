@@ -1,0 +1,3 @@
+[submodule "bashblog"]
+	path = bashblog
+	url = git@github.com:cfenollosa/bashblog.git
